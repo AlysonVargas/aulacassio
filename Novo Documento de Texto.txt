@@ -1,2 +1,6 @@
 doidera
+<<<<<<< HEAD
 1
+=======
+2
+>>>>>>> 82f7a7e5ac6cc5d5db6c9ead23183fc3a3c9a0e5
